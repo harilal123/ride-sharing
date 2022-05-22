@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "171562979630",
+    "firebase_url": "https://texiapp-e3fd6-default-rtdb.firebaseio.com",
+    "project_id": "texiapp-e3fd6",
+    "storage_bucket": "texiapp-e3fd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171562979630:android:07d2ebfdc15b103f49eabf",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171562979630-6brajm5r286n1rk319abre8kvuu2fllj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC43uLabnItD-clbpKV93soRJ7kzl8RebU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171562979630-6brajm5r286n1rk319abre8kvuu2fllj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
